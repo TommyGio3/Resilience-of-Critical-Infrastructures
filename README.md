@@ -1,4 +1,4 @@
-# Resilience-of-Critical-Infrastructures projects
+# Resilience of Critical Infrastructures projects
 
 ## About
 
